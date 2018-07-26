@@ -1,16 +1,13 @@
-Plugin Name: Capitalize Beginning of Each Word
-
-Description: Converts the first character of each word in a thread or post title to uppercase.
-
-Author: Brian. ( https://community.mybb.com/user-115119.html )
-
-Version: 1.1
+ - Plugin Name: Capitalize Beginning of Each Word
+ - Description: Converts the first character of each word in a thread or post title to uppercase.
+ - Author: Brian. ( https://community.mybb.com/user-115119.html )
+ - Version: 1.1
 
 
 This plugin converts the first character of each word in a thread or post title to uppercase.
 
 # How To Install:
- - Upload /inc/plugins/CBOEW.php to your /inc/plugins folder on your forum.
+ - Upload CBOEW.php to /inc/plugins.
  - Go to your Admin CP and plugins.
  - Activate Capitalize Beginning of Each Word plugin.
 
