@@ -16,7 +16,7 @@ This plugin converts the first character of each word in a thread or post title 
 
 
 # Notes: 
- - This plugin does not capitalize the beginning of each word in a existing thread title, only threads created after installing the plugin. 
+ - This plugin does not capitalize the beginning of each word in a existing thread titles, only threads created after installing the plugin. 
  - This plugin does not revert the changes made by it on deactivate.  
  - Changes made by this plugin are permanent.
 
